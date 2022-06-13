@@ -36,7 +36,7 @@ const TodoForm = ({ addTodo }) => {
         value={todo.task}
         onChange={handleTaskInputChange}
         placeholder="Agregá acá la nueva tarea"
-        maxLength="23"
+        maxLength="25"
         style={{
           width: "300px",
           height: "25px",

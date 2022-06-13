@@ -12,8 +12,8 @@ export const GlobalContainer = styled.div`
 `;
 
 export const ToDoContainer = styled.main`
-  height: 750px;
-  width: 500px;
+  height: 600px;
+  width: 450px;
   border: 2px solid black;
   border-radius: 3px;
   display: flex;
